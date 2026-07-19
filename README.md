@@ -26,7 +26,7 @@ The point of this list is to set goals  and focus for my life.
 - [ ] Around the world to → London → New York → Las Vegas → Los Angelos → Tokyo → Macau → UAE (ras al Kheim?
 ) → Monaco   Round The World ticket (RTW).
 - [ ] Cartier Nail necklace + Bracelet
-- buy a house for Lucia in ..... and make sure all maintenance, taxes and costs are covered
+- [ ] buy a house for Lucia in ..... and make sure all maintenance, taxes and costs are covered
 
 ### Friends
 - [ ] Skipr ski trip in Japan (Andreas)

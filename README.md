@@ -34,7 +34,7 @@ The point of this list is to set goals  and focus for my life.
 ### Individual
 
 - [ ] Build my own design mono loudspeaker and valve amplifier
-- Purchase an old motorcycle and restore it to a working condition.  Requirements:
+- [ ] Purchase an old motorcycle and restore it to a working condition.  Requirements:
     - least amoount of electronics
     - carburator operated
     - 1 or 2 cyclinders
@@ -46,6 +46,6 @@ The point of this list is to set goals  and focus for my life.
     - [ ] to the artic circle in Norway
     - [ ] East to West coast in the US
 - [ ] Vanlife -> not a holliday, but a good year of continuous vanlife in Europe. Or East to West coast in the US
-- [ ] 40 ft sailing life in / around the European seas
+- [ ] get a second hand / dated 40 ft sailing boat and live on it for a year around the European seas
 - [ ] Get a large tattoo
 - [ ] Go up half dome, if possible using the cables route

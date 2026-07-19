@@ -1,8 +1,8 @@
 ## Bukket list
 
-This is my bucket list.  I am sure this list will grow for the coming months / years but I will start ex
-ecuting towards this list latest in 2030, this is the year that I will turn 60, or when Skipr exits..  F
-or now I will keep this list to myself, at some point in time I will start to publish is to my family.
+This is my bucket list.  I am sure this list will grow for the coming months / years but I will start executing towards this list latest in 2030, this is the year that I will turn 60, or when Skipr exits..  For now I will keep this list to myself, at some point in time I will start to publish it to my family.
+
+
 The point of this list is to set goals  and focus for my life.
 
 ### Family
@@ -18,8 +18,9 @@ The point of this list is to set goals  and focus for my life.
 
 ### Vinn
 - [ ] race training (circuit)
+- [ ] buy a car for Vinn 
+- [ ] buy a house in UAE for Vinn and make sure all maintenance, taxes and costs are covered
 - [ ] buy a house in NL for Vinn
-- [ ] buy a house in UAE for Vinn and make sure all maintenace, taxes and costs are covered
 
 ### Lucia
 - [ ] Around the world to → London → New York → Las Vegas → Los Angelos → Tokyo → Macau → UAE (ras al Kheim?
